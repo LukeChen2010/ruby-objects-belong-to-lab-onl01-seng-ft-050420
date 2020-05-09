@@ -1,5 +1,7 @@
 class Post
   attr_accessor :title, :author
   
-  def
+  def author
+    return @author
+  end
 end
