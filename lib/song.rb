@@ -1,7 +1,7 @@
 class Song
   attr_accessor :title, :author
   
-  def author
-    return @author
+  def artist
+    return @artist
   end
 end
